@@ -1,0 +1,19 @@
+[
+  {
+    "groupId": "311CA",
+    "students": [
+      {
+        "name": "Marcel Popescu",
+        "year": 2
+      },
+      {
+        "name": "Florin Popescu",
+        "year": 1
+      },
+      {
+        "name": "Gigel Popescu",
+        "year": 1
+      }
+    ]
+  }
+]
